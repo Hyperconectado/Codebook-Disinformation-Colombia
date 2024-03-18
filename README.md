@@ -15,6 +15,11 @@ Marco de referencia para análisis de fenómenos de desinformación en Colombia.
 | Contenido Fabricado | Creación de contenido 100% falso. [Video en YouTube](https://www.youtube.com/shorts/jdR3DuDFB4I) |
 | Clickbaiting | Técnica usada para atraer usuarios sin tener en cuenta las consideraciones éticas y profesionales de una publicación. Su objetivo es alcanzar un alto volumen de usuarios visitando un portal. Por ejemplo: [Pulzo](https://www.pulzo.com/nacion/gustavo-petro-no-terminara-mandato-colombia-prediccion-astrologa-PP3116102) |
 | Error Involuntario | Difusión de una noticia cuya intención no fue el engaño. Anomalía en la construcción de la pieza informativa genera su clasificación. Por ejemplo: En este texto se observan dos datos diferentes acerca de las cifras de formalización de tierras en Colombia. El Espectador nota la diferencia y crea un artículo explicando el fenómeno. [Link en el Espectador](https://www.elespectador.com/politica/cifras-de-formalizacion-de-tierras-avivan-pulso-entre-jhenifer-mojica-y-gerardo-vega-min-agricultura-ant-noticias-colombia/ ) |
+|Propaganda | Propaganda:  Deliberados y sistemáticos intentos de  difusión de información o ideas para influenciar a una persona, grupo, institución o nación para apoyar – u oponerse – a un caso particular.  Busca afectar el comportamiento en las formas que desea el propagandista.Se puede dividir en Propaganda Gris, Blanca o Negra. En la propaganda blanca se conoce con exactitud su fuente. En la gris no es muy claro su origen y en la Negra que disimula sus orígenes, a menudo se presenta así misma como el objetivo que está tratando desacreditar.|
+
+|Cyber Troop o Cibermilicias| Grupos digitales cuyo objetivo es la manipulación de la opinión publica. Su origen puede estar en los gobiernos, militares y partidos políticos. Estos grupos tienen una forma de organización, estrategias, herramientas y técnicas. Así como un comportamiento organizacional, presupuesto y capacidad. 
+En Colombia se usa la palabra “Bodega” para definir lo que en realidad es una cibermilicia. Se recomienda no usar esa expresión. No existe referencia académica de ese apelativo.| 
+
 | Posible Desinformación | Descripción con tono editorial que califique y describa una posible desinformación. Descripción corta creada por un profesional y que califica o evalua la posible desinformación. |
 | URL  | Link donde se detectó   |
 | Intento de Debuking o Aclaración | Publicaciones donde se intentó desmentir o se añadió información profesional sobre el tema. |
@@ -41,6 +46,9 @@ Marco de referencia para análisis de fenómenos de desinformación en Colombia.
 4. Dr. Joan Donovan. Technology and Social Change Project at the Harvard Kennedy School Shorenstein Center for Media, Politics, and Public Policy.The Media Manipulation Casebook. Code Book.
 5. Whitney Phillips. The Oxygen of Amplification Better Practices for Reporting on Extremists, Antagonists, and Manipulators
 6. Emerson T. Brooking, Alyssa Kann, & Max Rizzuto. Digital Forensic Research Lab, Atlantic Council. Dichotomies of Disinformation: Project Overview & Codebook
+7. Samantha Bradshaw . University of Oxford.Hannah Bailey . University of Oxford .Philip N. Howard . University of Oxford Industrialized Disinformation
+2020 Global Inventory of Organized Social Media Manipulation
+8. Nabb Research Center Online Exhibits. What is propaganda https://libapps.salisbury.edu/nabb-online/exhibits/show/propaganda/what-is-propaganda-
 
 
 
